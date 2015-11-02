@@ -61,10 +61,10 @@ More information about SMACSS can be found on the [SMACSS](https://smacss.com/) 
 
 The Seven theme uses these categories to split up the css rules. The Seven theme contains a directory called `css`. Inside this folder, four more directories live:
 
-- `core/themes/seven/base`
-- `core/themes/seven/components`
-- `core/themes/seven/layout`
-- `core/themes/seven/theme`
+- `core/themes/seven/css/base`
+- `core/themes/seven/css/components`
+- `core/themes/seven/css/layout`
+- `core/themes/seven/css/theme`
 
 These folder contain the stylesheet (`.css` files) for each corresponding category.
 
