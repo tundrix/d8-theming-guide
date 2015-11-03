@@ -30,6 +30,10 @@ This means Classy is the new `base theme` in Drupal core where *Bartik* and *Sev
 
 [Add classy.info.yml to core, set Classy as base theme for Bartik and Seven](https://www.drupal.org/node/2329501)
 
+### Backwards compatibility
+
+Classy can be relied on to maintain backwards compatibility throughout the Drupal 8 cycle.
+
 ***
 
 **Read more**

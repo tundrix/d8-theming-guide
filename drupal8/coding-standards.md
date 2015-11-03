@@ -12,7 +12,7 @@ The CSS coding standards are based upon two very popular methodologies called SM
 
 ### SMACSS
 
-SMACSS (pronounced “smacks”) stands for **Scalable and Modular Architecture for CSS**. Drupal 8 uses **SMACSS** to conceptually categorize CSS rules inside libarries.
+SMACSS (pronounced “smacks”) stands for **Scalable and Modular Architecture for CSS**. Drupal 8 uses **SMACSS** to conceptually categorize CSS rules inside libraries.
 
 #### Base
 
@@ -34,13 +34,9 @@ The official **SMACSS** terminology for this is *modules*. Since *modules* have 
 
 #### Theme
 
-Sometimes also called **skin**, again to avoid the confusion with the Drupal term *themes*.
+Sometimes also referred to as  **skin**, again to avoid the confusion with the Drupal term *themes*.
 
 > A **theme** defines colors and/or images to give a certain look and feel to any of the previous element.
-
-<div style="float: left; margin-right: 10px;">
-![](../img/icons/pensil.png)
-</div>
 
     // component.css
     .component {
@@ -81,8 +77,6 @@ BEM (Block Element Modifier) is a naming convention. The Drupal 8 CSS class name
 - **Modifiers** are flags set on blocks or elements; they define properties or states. They may be boolean (for example, visible: true or false) or key-value pairs (size: large, medium, small) — somewhat similar to HTML attributes, but not exactly the same. Multiple modifiers are allowed on a single item if they represent different properties.
 
 **Source:** [Smashing Magazine](http://www.smashingmagazine.com/2014/07/17/bem-methodology-for-small-projects/)
-
-![](../img/icons/pensil.png)
 
 `buttons.theme.css (Seven)`:
 

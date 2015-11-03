@@ -8,4 +8,4 @@ The book is rather technical and contains lots of code examples.
 
 ## Note
 
-Drupal 8 is still under active development. This means some of the content of the book might be outdated. I am not responsible for any mistakes or faults that are currently in this book.
+I am not responsible for any mistakes or faults that are currently in this book.

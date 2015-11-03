@@ -11,7 +11,10 @@ The four Drupal 8 **core** themes live inside the `core/themes` folder. As part 
 You might remember these three themes from Drupal 7. But wait, there's more ...
 
 - **classy**: [[meta] Results of Drupalcon Austin's Consensus Banana](https://www.drupal.org/node/2289511): At DrupalCon Austin (2014) the need for a new core theme came up. Classy is a base theme that Seven and Bartik will extend from.
+- **stable**: The Stable theme will function as a backwards compatibility layer for Drupal 8's core markup, CSS and JS. A theme will use Stable as the base theme if no base theme is set in its .info.yml file.
+
+----
 
 Here's an overview of the Drupal 8 core themes and how they relate to each other.
 
-![An overview of the core themes](https://raw.githubusercontent.com/sqndr/d8-theming-guide/master/img/theme-overview.png)
+![An overview of the core themes](../img/theme-overview.png)

@@ -7,9 +7,3 @@ Inside `core/themes` there is a fifth folder (besides `bartik`, `seven`, `stark`
 A theme engine (also called template engine, template processor or template parser) is a software component that **combines data with templates** from themes and shows the result - the final HTML - to the user.
 
 ![Template Engine](https://raw.githubusercontent.com/sqndr/d8-theming-guide/master/img/template-engine.png)
-
-### PHPTemplate
-
-**PHPTemplate** was the default template engine for Drupal 7. It was written by [Adrian Rossouw](https://www.drupal.org/user/1337/view).
-
-The engine uses individual template files (`*.tpl.php` extension, such as `example.tpl.php`), to theme Drupal's `theme_` functions (`theme_example()`).

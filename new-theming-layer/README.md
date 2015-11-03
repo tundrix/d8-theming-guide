@@ -6,7 +6,7 @@ Drupal 8 comes with a completely new theme layer. The old theme layer was a big 
 
 ![A simplified wiring guide to the Theme Layer](../img/theme-system.png)
 
-> *A simplified wiring guide to the Theme Layer, by John Albin*
+> *A simplified wiring guide to the Theme Layer, by [John Albin](http://john.albin.net/drupal/arrays-of-doom)*
 
 - Drupal-specific template conventions
 - With **PHPTemplate**, anything was possible; even dropping your entire database from a template file. This made PHPTemplate - and the whole theming layer - very insecure.
@@ -30,11 +30,10 @@ Drupal 8 comes with a completely new theme layer. The old theme layer was a big 
 The Drupal 8 theme system is maintained by the following people:
 
 - [Alex Bronstein 'effulgentsia'](http://drupal.org/user/78040)
-- [John Albin Wilkins 'JohnAlbin'](http://drupal.org/user/32095)
-- [Jen Lampton 'jenlampton'](http://drupal.org/user/85586)
 - [Scott Reeves 'Cottser'](http://drupal.org/user/1167326)
 - [Fabian Franz 'Fabianx'](http://drupal.org/user/693738)
 - [Joël Pittet 'joelpittet'](https://drupal.org/user/160302)
+- [Lauri Eskola 'lauriii'](https://www.drupal.org/u/lauriii)
 
 ### Removing PHP Template
 
@@ -48,6 +47,8 @@ Twig makes the Drupal theme layer faster and more secure. It's impossible to run
 > In order to use the raw data (not escaped), you have to use the Twig `|raw` filter.
 
 All of the PHPTemplate files (`*.tpl.php`) were converted to Twig template files (`*.html.twig`).
+
+***
 
 **Read more**
 

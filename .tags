@@ -1,0 +1,41 @@
+Twig basics	/Users/sander.tirez/d8-theming-guide/twig/twig-basics.md	/^## Twig basics$/;"	function	line:1
+Twig autoescape enabled	/Users/sander.tirez/d8-theming-guide/twig/twig-basics.md	/^### Twig autoescape enabled$/;"	function	line:3
+Printing a variable	/Users/sander.tirez/d8-theming-guide/twig/twig-basics.md	/^### Printing a variable$/;"	function	line:9
+Twig filters	/Users/sander.tirez/d8-theming-guide/twig/twig-basics.md	/^### Twig filters$/;"	function	line:47
+Twig filters	/Users/sander.tirez/d8-theming-guide/twig/twig-basics.md	/^#### Twig filters$/;"	function	line:52
+Drupal filters	/Users/sander.tirez/d8-theming-guide/twig/twig-basics.md	/^#### Drupal filters$/;"	function	line:63
+Translation filters	/Users/sander.tirez/d8-theming-guide/twig/twig-basics.md	/^##### Translation filters$/;"	function	line:67
+Replace twig's escape filter with our own.	/Users/sander.tirez/d8-theming-guide/twig/twig-basics.md	/^##### Replace twig's escape filter with our own.$/;"	function	line:82
+Implements safe joining.	/Users/sander.tirez/d8-theming-guide/twig/twig-basics.md	/^##### Implements safe joining.$/;"	function	line:86
+Array filters	/Users/sander.tirez/d8-theming-guide/twig/twig-basics.md	/^##### Array filters$/;"	function	line:90
+CSS class and ID filters.	/Users/sander.tirez/d8-theming-guide/twig/twig-basics.md	/^##### CSS class and ID filters.$/;"	function	line:94
+Translations	/Users/sander.tirez/d8-theming-guide/twig/twig-basics.md	/^#### Translations$/;"	function	line:99
+Comments	/Users/sander.tirez/d8-theming-guide/twig/twig-basics.md	/^#### Comments$/;"	function	line:125
+Functions	/Users/sander.tirez/d8-theming-guide/twig/twig-basics.md	/^#### Functions$/;"	function	line:129
+Loops	/Users/sander.tirez/d8-theming-guide/twig/twig-basics.md	/^#### Loops$/;"	function	line:137
+Create a Twig variable	/Users/sander.tirez/d8-theming-guide/twig/twig-basics.md	/^#### Create a Twig variable$/;"	function	line:176
+The $attributes array	/Users/sander.tirez/d8-theming-guide/twig/attributes.md	/^## The $attributes array$/;"	function	line:1
+Template files (Twig)	/Users/sander.tirez/d8-theming-guide/twig/template-files.md	/^# Template files (Twig)$/;"	function	line:1
+Find and override a template	/Users/sander.tirez/d8-theming-guide/twig/template-override.md	/^## Find and override a template$/;"	function	line:1
+Enable Twig Debug	/Users/sander.tirez/d8-theming-guide/twig/template-override.md	/^### Enable Twig Debug$/;"	function	line:3
+Theme debug suggestions	/Users/sander.tirez/d8-theming-guide/twig/template-override.md	/^### Theme debug suggestions$/;"	function	line:21
+The advantages of libraries and dependencies	/Users/sander.tirez/d8-theming-guide/libraries/advantages.md	/^## The advantages of libraries and dependencies$/;"	function	line:1
+Attach libraries directly from a template file	/Users/sander.tirez/d8-theming-guide/libraries/libraries-and-twig.md	/^## Attach libraries directly from a template file$/;"	function	line:1
+Core libraries	/Users/sander.tirez/d8-theming-guide/libraries/core-libraries.md	/^## Core libraries$/;"	function	line:1
+Libraries	/Users/sander.tirez/d8-theming-guide/libraries/README.md	/^# Libraries$/;"	function	line:1
+Global styling	/Users/sander.tirez/d8-theming-guide/libraries/README.md	/^## Global styling$/;"	function	line:5
+Global scripts	/Users/sander.tirez/d8-theming-guide/libraries/README.md	/^## Global scripts$/;"	function	line:9
+Adding a javascript library	/Users/sander.tirez/d8-theming-guide/libraries/README.md	/^## Adding a javascript library$/;"	function	line:15
+Javascript	/Users/sander.tirez/d8-theming-guide/javascript/README.md	/^## Javascript$/;"	function	line:1
+File-closure	/Users/sander.tirez/d8-theming-guide/javascript/README.md	/^### File-closure$/;"	function	line:5
+'use strict'	/Users/sander.tirez/d8-theming-guide/javascript/README.md	/^### 'use strict'$/;"	function	line:14
+ESHint	/Users/sander.tirez/d8-theming-guide/javascript/README.md	/^### ESHint$/;"	function	line:38
+jQuery	/Users/sander.tirez/d8-theming-guide/javascript/jquery.md	/^### jQuery$/;"	function	line:1
+jQuery and Drupal	/Users/sander.tirez/d8-theming-guide/javascript/jquery.md	/^#### jQuery and Drupal$/;"	function	line:7
+The history of libraries, part 1	/Users/sander.tirez/d8-theming-guide/libraries/history.md	/^## The history of libraries, part 1$/;"	function	line:1
+{}.libraries.yml	/Users/sander.tirez/d8-theming-guide/libraries/history.md	/^## {}.libraries.yml$/;"	function	line:18
+The history of libraries, part 2	/Users/sander.tirez/d8-theming-guide/libraries/history.md	/^## The history of libraries, part 2$/;"	function	line:44
+Theme function (`Drupal.theme`)	/Users/sander.tirez/d8-theming-guide/javascript/theme-function.md	/^### Theme function (`Drupal.theme`)$/;"	function	line:1
+Declaring several theme functions	/Users/sander.tirez/d8-theming-guide/javascript/theme-function.md	/^#### Declaring several theme functions$/;"	function	line:46
+Creating a custom theme	/Users/sander.tirez/d8-theming-guide/custom-theme/README.md	/^# Creating a custom theme$/;"	function	line:1
+Drupal behaviors (`Drupal.behaviors`)	/Users/sander.tirez/d8-theming-guide/javascript/behaviors.md	/^### Drupal behaviors (`Drupal.behaviors`)$/;"	function	line:1
